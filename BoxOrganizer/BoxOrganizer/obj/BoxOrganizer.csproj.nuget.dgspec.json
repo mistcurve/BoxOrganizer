@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\source\\repos\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer.csproj": {}
+    "C:\\Users\\student\\Source\\Repos\\BoxOrganizer2\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\source\\repos\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer.csproj": {
+    "C:\\Users\\student\\Source\\Repos\\BoxOrganizer2\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\source\\repos\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer.csproj",
+        "projectUniqueName": "C:\\Users\\student\\Source\\Repos\\BoxOrganizer2\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer.csproj",
         "projectName": "BoxOrganizer",
-        "projectPath": "C:\\Users\\student\\source\\repos\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer.csproj",
+        "projectPath": "C:\\Users\\student\\Source\\Repos\\BoxOrganizer2\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\source\\repos\\BoxOrganizer\\BoxOrganizer\\BoxOrganizer\\obj\\",
+        "outputPath": "C:\\Users\\student\\Source\\Repos\\BoxOrganizer2\\BoxOrganizer\\BoxOrganizer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
